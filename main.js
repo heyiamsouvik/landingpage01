@@ -20,3 +20,11 @@ ScrollReveal().reveal(".header__content form", {
   ...scrollRevealOption,
   delay: 1500,
 });
+ScrollReveal().reveal(".courses-list h4", {
+  ...scrollRevealOption,
+  delay: 1500,
+});
+ScrollReveal().reveal(".course i", {
+  ...scrollRevealOption,
+  delay: 1500,
+});
